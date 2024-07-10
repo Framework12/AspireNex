@@ -1,4 +1,4 @@
-readme_content = """
+
 # AspireNex
 
 AspireNex is a versatile machine learning project featuring two primary notebooks: CreditCard.ipynb and MovieGenre.ipynb. This project demonstrates various data science and machine learning techniques.
@@ -62,6 +62,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 For any questions or issues, please open an issue on GitHub.
 """
 
-# Write the content to a README.md file
-with open("README.md", "w") as file:
-    file.write(readme_content)
